@@ -1,1 +1,2 @@
-hello everyone i have created empty repo for powershell, lets crack then
+hello everyone I have created an empty repo for Powershell, let's crack then
+here you can add your thoughts on how Powershell can play a vital role in Admin, Automation and In DevOps process.
